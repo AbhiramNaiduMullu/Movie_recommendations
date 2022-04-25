@@ -1,0 +1,2 @@
+# Movie_recommendations
+MOVIE RECOMMENDATION USING KNN ALGORITHM
